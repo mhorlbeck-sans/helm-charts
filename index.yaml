@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hello-sans:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-06T09:17:01.109158-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 907b1d7d7bb6efbe75c1aaa7cb728c05705a7626aa4bede4b0d9e98aaccdb4be
+    name: hello-sans
+    type: application
+    urls:
+    - https://mhorlbeck-sans.github.io/helm-charts/hello-sans-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-06T09:17:01.1085-05:00"
